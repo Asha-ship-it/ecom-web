@@ -1,0 +1,22 @@
+.footer{
+    background-color: #0f2e49;
+    padding: 20px;
+    height: auto;
+    ul li{
+        list-style: none;
+        color: white;
+        font-size: 13px;
+        padding: 3px;
+        &.main-link{
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+    }
+
+    .borders{
+        // display: inline-block;
+        border: 2px solid #FFCC00;
+        width: 60px;
+        margin-top: 2px;
+    }
+}
